@@ -1,2 +1,2 @@
 # daily-shell
-日常shell脚本
+工作中用到的一些shell脚本
